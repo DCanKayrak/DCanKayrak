@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Danyal Can KAYRAK</h1>
-<h3 align="center">A Passionate Fullstack Developer from Turkey 🇹🇷</h3>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&background=1A1A1A00&center=true&width=435&lines=Hi+I'm+Danyal+Can+KAYRAK!;Fullstack+Developer+%7C+AI+%7C+Gamer;I+❤️+Java+and+ReactJS;" alt="Typing SVG" />
+</div>
+
 
 ### 🚀 About Me
 - 💻 Fullstack Web Developer & curious lifelong learner  
